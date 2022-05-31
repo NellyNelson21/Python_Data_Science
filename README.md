@@ -1,7 +1,7 @@
 # Python_Data_Science
 Repository with Python Data Science tasks colpleted during intensive course in School 21.
 
-**Intensive is devided into "Days":**
+**Intensive is devided into "Days":**\n
 each day contains several tasks on the certain topic
 
 **Structure of Folders:**
