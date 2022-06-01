@@ -13,7 +13,7 @@ Day02 - introduction into sk-learn classification methods: LogisticRegressionCla
 Day03 - new sk-learn classifiers: DecisionTreeClassifier, KNeighborsClassifier<br />
 Day04 - introduction into sk-learn clusterization methods: KMeans, AgglomerativeClustering, PCA, TSNE, DBSCAN<br />
 Day05 - introduction into text data processing: bag-of-words, TF-IDF<br />
-\tnew classifier: RandomForestClassifier<br />
+\t new classifier: RandomForestClassifier<br />
 Day06 - new method for text data processing: word2vec<br />
-\tnew classifier: XGBClassifier<br />
+\t new classifier: XGBClassifier<br />
 Day09 - introduction into recommendation system
