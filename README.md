@@ -9,7 +9,7 @@ each day contains several tasks on the certain topic
 <br />
 
 **Structure of Folders:<br />**
-Python_DS_beginner_DayXX/datasets - dataset for this day<br />
+Python_DS_beginner_DayXX/datasets - dataset for this day (datesets for day05, day06 will be zipped as they're too massive)<br />
 Python_DS_beginner_DayXX/src - notebooks with given task (calls dXX_task)<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;and completed work (calls dXX_desk)
 <br />
