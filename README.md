@@ -17,7 +17,7 @@ Python_DS_beginner_DayXX/src - notebooks with given task (calls dXX_task)<br />a
 **List of topics:<br />**
 - Day02 - introduction into sk-learn classification methods: LogisticRegressionClassifier<br />
 - Day03 - new sk-learn classifiers: DecisionTreeClassifier, KNeighborsClassifier<br />
-- Day04 - introduction into sk-learn clusterization methods: KMeans, AgglomerativeClustering,
+- Day04 - introduction into sk-learn clusterization methods: KMeans, AgglomerativeClustering,<br />
 &emsp;&emsp;&emsp;&ensp;&nbsp; PCA, TSNE, DBSCAN<br />
 - Day05 - introduction into text data processing: bag-of-words, TF-IDF<br />
 &emsp;&emsp;&emsp;&ensp;&nbsp; new classifier: RandomForestClassifier<br />
