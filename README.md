@@ -1,4 +1,4 @@
-# Python_Data_Science
+# Python Data Science
 Repository with Python Data Science tasks colpleted during intensive course in School 21.
 <br />
 <br />
