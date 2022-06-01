@@ -10,7 +10,8 @@ each day contains several tasks on the certain topic
 
 **Structure of Folders:<br />**
 Python_DS_beginner_DayXX/datasets - dataset for this day<br />
-Python_DS_beginner_DayXX/src - notebooks with given task (calls dXX_task)<br />and completed work (calls dXX_desk)
+Python_DS_beginner_DayXX/src - notebooks with given task (calls dXX_task)<br />
+&emsp;&emsp;&emsp;&ensp;&nbsp; and completed work (calls dXX_desk)
 <br />
 <br />
 
@@ -23,4 +24,4 @@ Python_DS_beginner_DayXX/src - notebooks with given task (calls dXX_task)<br />a
 &emsp;&emsp;&emsp;&ensp;&nbsp; new classifier: RandomForestClassifier<br />
 - Day06 - new method for text data processing: word2vec<br />
 &emsp;&emsp;&emsp;&ensp;&nbsp; new classifier: XGBClassifier<br />
-- Day09 - introduction into recommendation system
+- Day09 - introduction into recommendation systems
