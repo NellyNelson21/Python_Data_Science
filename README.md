@@ -20,7 +20,7 @@ Python_DS_beginner_DayXX/src - notebooks with given task (calls dXX_task) and co
 - Day04 - introduction into sk-learn clusterization methods: KMeans, AgglomerativeClustering,<br />
 &emsp;&emsp;&emsp;&ensp;&nbsp; PCA, TSNE, DBSCAN<br />
 - Day05 - introduction into text data processing: bag-of-words, TF-IDF<br />
-&emsp;&emsp;&emsp;&ensp;&nbsp; new classifier: RandomForestClassifier<br />
+&emsp;&emsp;&emsp;&ensp; new classifier: RandomForestClassifier<br />
 - Day06 - new method for text data processing: word2vec<br />
-&emsp;&emsp;&emsp;&ensp;&nbsp; new classifier: XGBClassifier<br />
+&emsp;&emsp;&emsp;&ensp; new classifier: XGBClassifier<br />
 - Day09 - introduction into recommendation systems
