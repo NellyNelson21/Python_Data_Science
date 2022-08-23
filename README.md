@@ -4,7 +4,7 @@ Repository with Python Data Science tasks colpleted during intensive course in S
 <br />
 
 **Intensive is devided into "Days":<br />**
-each day contains several tasks on the certain topic
+each day contains several tasks on the certain topic, which help to understand one of DS field
 <br />
 <br />
 
